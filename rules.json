@@ -5,11 +5,11 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "regexSubstitution": "https://piped.kavin.rocks/"
+        "regexSubstitution": "piped.kavin.rocks"
       }
     },
     "condition": {
-      "regexFilter": "https://www.youtube.com/",
+      "regexFilter": "www.youtube.com",
       "resourceTypes": [
         "main_frame"
       ],
