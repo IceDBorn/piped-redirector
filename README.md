@@ -1,2 +1,2 @@
 # Piped Redirector
-Redirects all Youtube links to Piped
+Redirects all Youtube links to Piped (https://piped.kavin.rocks/)
