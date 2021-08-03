@@ -1,2 +1,2 @@
-# piped-redirector
-Redirects Youtube links to Piped
+# Piped Redirector
+Redirects all Youtube links to Piped
