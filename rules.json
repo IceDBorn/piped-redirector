@@ -12,7 +12,8 @@
       "regexFilter": "https://www.youtube.com/",
       "resourceTypes": [
         "main_frame"
-      ]
+      ],
+      "excludedDomains" : ["piped.kavin.rocks"]
     }
   }
 ]
